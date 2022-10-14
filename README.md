@@ -1,4 +1,4 @@
-# CGA-palette-Shader
+# CGA-palette-Shader for Unity
 Use this shader on the render texture material. Import images with dithering without smoothing, compression and with "Repeat".
 In the text file: rgb-values of the corresponding colors.
 
