@@ -1,5 +1,10 @@
-# CGA-palette-Shader for Unity
-Use this shader on the render texture material. Import images with dithering without smoothing, compression and with "Repeat".
-In the text file: rgb-values of the corresponding colors.
+# Palette limiter for Unity
+![alt text](https://rikovmike.ru/upload/images/LimitPaletteRaw/title.png)
 
-![alt text](https://gamedev.ru/files/images/shader_cga_test.gif)
+Palette constraint shader for demake projects with dithering effect.
+Can use single-pixel palettes from lospec.com 
+
+![alt text](https://rikovmike.ru/upload/_temp/shader_CGA_test6.gif)
+
+
+
