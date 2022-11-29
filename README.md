@@ -6,7 +6,7 @@ Contains only one shader file and two helper images.
 No additional scripts or other garbage stuff.
 
 ## How To Use
---------------------------
+
 Use this shader on the material of your final render texture. 
 In the material, you need to set the `palette` parameter and 
 the `dithering` texture. Use only single-pixel images as 
@@ -26,9 +26,8 @@ Refer to the demo scene as a reference for setting up the render.
 Works on any type of project - both 2D and 3D. 
 It can be configured on ready-made projects and templates.
 
-
-
 ![alt text](https://rikovmike.ru/upload/_temp/shader_CGA_test6.gif)
 
+## Demo
 
-
+Get the `*.unitypackage` from releases and import it into yuor project. Check `demo scene` from imported package for basic rendering setup. Get fun! 
