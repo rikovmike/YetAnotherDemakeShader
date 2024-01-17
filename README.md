@@ -30,4 +30,4 @@ It can be configured on ready-made projects and templates.
 
 ## Demo
 
-Get the `*.unitypackage` from releases and import it into yuor project. Check `demo scene` from imported package for basic rendering setup. Have fun! 
+Get the `*.unitypackage` from releases and import it into your project. Check `demo scene` from imported package for basic rendering setup. Have fun! 
